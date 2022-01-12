@@ -1,3 +1,6 @@
+import { ReactComponent as GithubIcon } from "../../assets/img/github.svg";
+import "./index.css";
+
 function Navbar() {
   return (
     <header>
@@ -5,7 +8,7 @@ function Navbar() {
         <div className="dsmovie-nav-content">
           <h1>DSMovie</h1>
           <a
-            href="https://github.com/devsuperior"
+            href="https://github.com/savio-2-lopes/DSMovie-Semana-Spring-React"
             target="_blank"
             rel="noreferrer"
           >
