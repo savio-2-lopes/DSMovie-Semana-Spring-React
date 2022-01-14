@@ -24,12 +24,6 @@
 
 <br>
 
-<p align="center">
-  <img src=".github/1.gif" width="1000" alt="dsmovie" >
-</p>
-
-<br>
-
 ## 🚀 Como executar o projeto
 
 ### Pré-requisitos
