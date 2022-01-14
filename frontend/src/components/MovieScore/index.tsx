@@ -1,4 +1,3 @@
-import { NodeArray } from "typescript";
 import MovieStars from "../MovieStars";
 import "./index.css";
 
