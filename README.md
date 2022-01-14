@@ -1,5 +1,5 @@
 <div align="center">
-<img src=".github/1.gif" alt="DSMovie" >
+<img src=".github/1.gif" width="1000" alt="DSMovie" >
 </div>
 
 <br>
@@ -25,7 +25,7 @@
 <br>
 
 <p align="center">
-  <img src=".github/1.gif" width="800" alt="dsmovie" >
+  <img src=".github/1.gif" width="1000" alt="dsmovie" >
 </p>
 
 <br>
