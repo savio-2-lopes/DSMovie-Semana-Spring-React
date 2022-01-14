@@ -20,12 +20,12 @@
 
 <br>
 
-🎬 Aplicação em React.js e Spring Framework, que permite visualizar e realizar a pontuação de filmes, cadastrados no banco de dadso PostgreSQL, desenvolvida durante a Semana Spring React, disponibilizado pela [Devsuperior](https://devsuperior.com.br/)
+🎬 Aplicação em React.js e Spring Framework, que permite realizar a pontuação de filmes, desenvolvida durante a Semana Spring React, disponibilizado pela [Devsuperior](https://devsuperior.com.br/)
 
 <br>
 
 <p align="center">
-  <img src=".github/gif.gif" width="800" alt="dsmovie" >
+  <img src=".github/1.gif" width="800" alt="dsmovie" >
 </p>
 
 <br>
