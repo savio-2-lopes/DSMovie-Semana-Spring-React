@@ -16,7 +16,7 @@
 
 <br>
 
-## :rocket: Sobre
+## :computer: Sobre
 
 <br>
 
