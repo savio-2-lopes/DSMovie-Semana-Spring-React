@@ -14,7 +14,7 @@ function Navbar() {
           >
             <div className="dsmovie-contact-container">
               <GithubIcon />
-              <p className="dsmovie-contact-link">/devsuperior</p>
+              <p className="dsmovie-contact-link">/savio-2-lopes</p>
             </div>
           </a>
         </div>
