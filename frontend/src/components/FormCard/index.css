@@ -37,7 +37,7 @@
 }
 
 .dsmovie-card-bottom-container h3 {
-  color: #4A4A4A;
+  color: #4a4a4a;
   text-align: center;
   font-size: 14px;
   font-weight: 700;
@@ -54,4 +54,9 @@
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.dsmovie-btn:hover {
+  background-color: #3e4951;
+  border-radius: #3e4951;
 }

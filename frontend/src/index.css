@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap");
 
 :root {
-  --color-primary: #4d41c0;
+  --color-primary: #1d2226;
 }
 
 * {
@@ -11,7 +11,7 @@
 
 html,
 body {
-  background-color: #e5e5e5;
+  background-color: #38434f;
 }
 
 a,
